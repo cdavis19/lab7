@@ -76,6 +76,9 @@ groceryArray.forEach(function(item)
                      receiptContainer.appendChild(itemPrice);
                      itemPrice.className = "priceSpan";
 
+                     
+
+
 
 
 
