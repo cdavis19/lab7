@@ -1,0 +1,32 @@
+h1 {
+  color: rgb(135, 74, 2);
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+#receiptContainer{
+    border: solid 1px black;
+    width: 65%;
+    margin-left: 17%;
+    margin-top: 0px;
+    padding: 15px;
+}
+
+form{
+  text-align: center;
+  height: 0;
+}
+
+label{
+  color: black;
+  font-family: sans-serif;
+  font-size: 25px;
+
+}
+
+body {background-image: url(https://webpages.scu.edu/ftp/atacosta/Safeway.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
